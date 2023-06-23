@@ -1,0 +1,21 @@
+.emoticon-container{
+    position: absolute;
+    background-color: #ECBAC4;
+    width: 65px;
+    height: 65px;
+    top: 39px;
+    left: 850px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.emoticon-container img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 75%;
+    height: 75%;
+    color: #ECBAC4;
+}
+
